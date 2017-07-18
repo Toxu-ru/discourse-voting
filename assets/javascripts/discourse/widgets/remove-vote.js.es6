@@ -8,7 +8,7 @@ export default createWidget('remove-vote', {
   },
 
   html() {
-    return ["Remove vote"];
+    return ["Удалить голос"];
   },
 
   click(){
